@@ -1,2 +1,2 @@
 # kicad_libs
-Kicad Schematic Component and PCB Footprint Libraries. 
+Kicad Schematic Component, PCB Footprint, and Template Libraries. 
