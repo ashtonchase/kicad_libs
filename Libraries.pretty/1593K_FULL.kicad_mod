@@ -1,0 +1,12 @@
+(module 1593K_FULL (layer F.Cu) (tedit 55C814AF)
+  (fp_text reference REF** (at 0 -30.48) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 1593K_FULL (at 0 -33.02) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 0 -28) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 28 -28) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 28 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask F.SilkS))
+)

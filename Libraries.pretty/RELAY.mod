@@ -1,0 +1,160 @@
+PCBNEW-LibModule-V1  Sun 25 Jan 2015 09:38:00 PM CST
+# encoding utf-8
+Units mm
+$INDEX
+EE2-xSNU
+TH_KEMET_EC2
+$EndINDEX
+$MODULE EE2-xSNU
+Po 0 0 0 15 54C5B68C 00000000 ~~
+Li EE2-xSNU
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "EE2-xSNU"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS -2.54 0 15.24 0 0.15 21
+DS 15.24 0 15.24 7.29 0.15 21
+DS 15.24 7.29 -2.54 7.29 0.15 21
+DS -2.54 7.29 -2.54 0 0.15 21
+$PAD
+Sh "3" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "4" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "5" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "1" R 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "12" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 0 7.29
+$EndPAD
+$PAD
+Sh "8" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 10.16 7.29
+$EndPAD
+$PAD
+Sh "9" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 7.62 7.29
+$EndPAD
+$PAD
+Sh "10" O 1.1 3 0 0 0
+Dr 0 0 0
+At CONN N 00808000
+Ne 0 ""
+Po 5.08 7.29
+$EndPAD
+$EndMODULE EE2-xSNU
+$MODULE TH_KEMET_EC2
+Po 0 0 0 15 54C076A4 00000000 ~~
+Li TH_KEMET_EC2
+Sc 0
+AR 
+Op 0 0 0
+T0 6.35 2.54 1 1 0 0.15 N V 21 N "TH_KEMET_EC2"
+T1 2.54 -2.54 1 1 0 0.15 N V 21 N "VAL**"
+DS -1.27 -1.27 13.97 -1.27 0.15 21
+DS 13.97 -1.27 13.97 6.35 0.15 21
+DS 13.97 6.35 -1.27 6.35 0.15 21
+DS -1.27 6.35 -1.27 -1.27 0.15 21
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "5" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "6" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "7" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 5.08
+$EndPAD
+$PAD
+Sh "8" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 5.08
+$EndPAD
+$PAD
+Sh "9" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "10" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "12" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$EndMODULE TH_KEMET_EC2
+$EndLIBRARY
